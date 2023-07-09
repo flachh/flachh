@@ -1,19 +1,21 @@
 ## Hellow 👋 Welcome to my profile!
-Hi my name is Gabriel Flach, I believe that because I'm a very lazy person and I don't like to repeat my daily tasks, I started to automate some of them and with that, I arrived in the programming world with a lot of curiosity!! I am currently studying full-stack web development, and daily I seek more and more knowledge to develop my programming skills.
+Hey, my name is Gabriel Flach, I own a car washing and aesthetics company, and I'm currently looking for my first job as a programmer, I'm studying JavaScript, NodeJs and React!
 
 ### A little about myself
-- 🏘️ I live in Itajaí, Santa Catarina, Brasil
+- I live in Itajaí, Santa Catarina, Brasil
+- I got my own business (@santalavacao)
+- I go to the gym weekly
+- I like skateboarding even though I don't know
+- I am very interested in evolving as a Videomaker
 
-
+  
 
 ## Olá 👋 Seja Bem vindo(a) ao meu perfil!
-Olá, me chamo Gabriel Flach, acredito que por ser uma pessoa muito preguiçosa e não gostar de ter que repetir minhas tarefas do dia a dia comecei a automatizar algumas delas e com isso, cheguei ao mundo da programação com muita curiosidade!! Atualmente estudo desenvolvimento web full-stack, e diariamente busco mais e mais conhecimento para desenvolver minhas habilidades em programação. 
+Opa, me chamo Gabriel Flach, possuo uma empresa de lavação e estética automotiva, e atualmente estou em busca do meu primeiro emprego como programador, estou estudando JavaScript, NodeJs e React!
 
 ### Um pouco sobre mim
-- 🏘️ Moro em Itajaí, Santa Catarina, Brasil
-
-### Github Stats
-
-<a href="https://github.com/flachh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flachh&layout=compact&theme=tokyonight" />
-</a>
+- Moro em Itajaí, Santa Catarina, Brasil
+- Possuo uma empresa de Estetica Automotivo (@santalavacao)
+- Vou para a academia semanalmente 
+- Gosto de andar de Skate apesar de não saber
+- Tenho muito interesse em evoluir como Videomaker
